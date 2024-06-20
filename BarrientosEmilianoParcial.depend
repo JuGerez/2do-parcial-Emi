@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718752356 source:d:\barrientosemiliano\barrientosemilianoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718918655 source:c:\users\yeco_\documents\proyectosutn2024\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
